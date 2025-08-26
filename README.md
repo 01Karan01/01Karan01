@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karan</h1>
 <h3 align="center">A passionate frontend developer & Data Analyst from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd8q5-5_in4OcEPJON5t32Fh4RkzYWOwzWdA&s" alt="01karan01" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd8q5-5_in4OcEPJON5t32Fh4RkzYWOwzWdA&s" alt="01karan01" width="200"/></a> </p>
 
 - 🌱 I’m currently learning **AWS Cloud Practitioner Essentials & Frontend**
 - 👯 I’m looking to collaborate on **Open-source projects in Web Development & Data Science**
