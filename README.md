@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+am+Competitive+Programmer;and+Frontend+Developer;C+Python+Java;Html+Css+SQL;DSA+Git+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+am+Competitive+Programmer;and+Frontend+Developer;C+Python+Java;Html+Css+JS;DSA+Git+APIs" alt="Typing SVG" />
 </p>
 </p><p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd8q5-5_in4OcEPJON5t32Fh4RkzYWOwzWdA&s" alt="01karan01" width="200"/></a> </p>
 <hr>
