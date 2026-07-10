@@ -25,7 +25,7 @@
 
 ### 🌐 Connect with Me
 
-<p align="centre">
+<p align="center">
   <a href="https://www.linkedin.com/in/karan-kr-arya-a2873a30b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
