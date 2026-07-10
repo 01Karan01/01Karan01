@@ -7,12 +7,11 @@
 
 ### 💫 About Me
 
-- 🌱 I’m currently learning *AWS Cloud Practitioner Essentials & Frontend*
-- 👯 I’m looking to collaborate on *Open-source projects in Web Development & Data Science*
-- 📝 I regularly write articles on [Soon starting blogs on Medium about Web Development & Data Science](Soon starting blogs on Medium about Web Development & Data Science)
-- 💬 Ask me about *Frontend Development, Java, Python, Data Visualization, Data Cleaning*
+- 🌱 I’m currently learning *AWS Cloud Practitioner Essentials from AWS*
+- 👯 I'm looking to collaborate on *Open-source projects in AI/ML, Data Analytics, and Data Science*
+- 💬 Ask me about Java, Python, SQL, Power BI, Data Analytics, Machine Learning, and Frontend Development.
 - 📫 How to reach me *karanuniq1008@gmail.com*
-- ⚡ Fun fact *I think I'm Funny*
+- ⚡ Fun fact: I enjoy turning ideas into projects and continuously learning new technologies.
 
 <hr>
 
